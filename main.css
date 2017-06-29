@@ -1,0 +1,17 @@
+#mainBox{
+  height: 200px;
+  width: auto;
+  border: 2px solid black;
+}
+
+.headerBox {
+  height: 100px;
+  width: auto;
+  background: green;
+}
+
+.footerBox {
+  height: 100px;
+  width: auto;
+  background: red;
+}
